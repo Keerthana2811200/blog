@@ -37,7 +37,7 @@ QuickBlog AI is a full-stack blogging platform enhanced with generative AI to he
  Installation & Setup
 
  1. Clone the repository
- git clone https://github.com/Keerthana2811200/QuickBlog-AI.git
+ git clone https://github.com/Keerthana2811200/Blog.git
 cd QuickBlog-AI
 
 2. Install dependencies
